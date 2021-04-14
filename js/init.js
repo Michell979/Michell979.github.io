@@ -1,7 +1,7 @@
 
 // @ts-ignore
 firebase.initializeApp({
-    var firebaseConfig = {
+    
     apiKey: "AIzaSyAailp7Qof9xSk-6HA8TobxraAT1FaHJbk",
     authDomain: "michellpwa.firebaseapp.com",
     projectId: "michellpwa",
