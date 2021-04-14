@@ -17,7 +17,7 @@ class MiNav extends HTMLElement {
 		  help
           fact_check
         </span>
-      lock 
+         lock 
       </a>`;
   }
 }
