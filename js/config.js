@@ -11,33 +11,13 @@ class MiNav extends HTMLElement {
         </span>
         Inicio
       </a>
-      <a href="formulario.html">
+      <a href="index2.html">
         <span
           class="material-icons">
+		  help
           fact_check
         </span>
-        Formulario
-      </a>
-      <a href="gps.html">
-        <span
-          class="material-icons">
-          location_searching
-        </span>
-        GPS
-      </a>
-      <a href="archivos.html">
-        <span
-          class="material-icons">
-          attach_file
-        </span>
-        Archivos
-      </a>
-      <a href="ayuda.html">
-        <span
-          class="material-icons">
-          help
-        </span>
-        Ayuda
+      lock 
       </a>`;
   }
 }
