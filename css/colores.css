@@ -15,9 +15,7 @@ html {
   /* Los 2 primeros fonts son para
    * apple y "Roboto" es para
    * Android. */
-  --fontFamily: -apple-system,
-    BlinkMacSystemFont, Roboto,
-    sans-serif;
+  --fontFamily:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   color: var(--colContenido);
   font-family: var(--fontFamily);
   background-color:
